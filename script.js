@@ -22,7 +22,5 @@ function mincost(arr)
 		
 	}
 // return the min cost
-  
-}
 
 module.exports=mincost;
